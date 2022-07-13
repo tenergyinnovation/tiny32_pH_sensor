@@ -3,6 +3,8 @@
  * Description  :     Class for tiny32 library for Gravity: Analog pH Sensor / Meter Kit V2, SKU: SEN0161-V2
  * Author       :     Tenergy Innovation Co., Ltd.
  * Date         :     13 July 2022
+ * Rev          :     1.0
+ * Rev1.0       :     Original
  * website      :     http://www.tenergyinnovation.co.th
  * Email        :     uten.boonliam@innovation.co.th
  * TEL          :     089-140-7205
